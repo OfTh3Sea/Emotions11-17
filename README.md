@@ -1,3 +1,4 @@
+<img width="4440" height="2360" alt="teen_checkin_poster" src="https://github.com/user-attachments/assets/a94c8395-dafa-4222-9108-4166aff55ad6" />
 # ✦ Teen Check-in
 ### Daily Emotional Check-in for Ages 11–17
 
